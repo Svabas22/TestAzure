@@ -3,37 +3,13 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "adminUsername": {
-      "value": "yourAdminUsername"
+      "value": "testARMvm"
     },
     "adminPassword": {
-      "value": "yourAdminPassword"
-    },
-    "dnsLabelPrefix": {
-      "value": "yourDNSLabelPrefix"
-    },
-    "publicIpName": {
-      "value": "yourPublicIPName"
-    },
-    "publicIPAllocationMethod": {
-      "value": "Dynamic"
-    },
-    "publicIpSku": {
-      "value": "Basic"
-    },
-    "OSVersion": {
-      "value": "2022-datacenter-azure-edition"
-    },
-    "vmSize": {
-      "value": "Standard_D2s_v5"
-    },
-    "location": {
-      "value": "yourLocation"
+      "value": "testAdmin123!"
     },
     "vmName": {
-      "value": "yourVMName"
-    },
-    "securityType": {
-      "value": "TrustedLaunch"
+      "value": "testVM"
     }
   }
 }
